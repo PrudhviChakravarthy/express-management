@@ -50,7 +50,6 @@ This Express.js API provides endpoints for managing employees using MongoDB as t
 
 ```bash
 git clone <repository_url>
-cd express-mongodb-employee-api
 ```
 
 ### 2. Create .env file
